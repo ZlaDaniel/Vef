@@ -1,1 +1,1 @@
-web: python killself.py
+web: python forrit.py
